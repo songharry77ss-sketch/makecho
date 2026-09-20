@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">makecho</string>
+    <string name="title_activity_main">makecho</string>
+    <string name="package_name">com.makecho.garden</string>
+    <string name="custom_url_scheme">com.makecho.garden</string>
+</resources>
