@@ -12,3 +12,4 @@ android/app/build/
 ios/App/Pods/
 *.log
 *.tsbuildinfo
+releases/

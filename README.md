@@ -2,6 +2,10 @@
 
 초파리 모모를 돌보고, 정원을 탐험하고, 작은 발견을 수집하는 한국어 펫 게임입니다. React + TypeScript + Vite 웹앱, 설치형 PWA, Capacitor Android / iOS 프로젝트를 함께 제공합니다.
 
+## 실시간 3D 정원 (v0.2)
+
+메인 정원과 탐험 화면에 Higgsfield 3D Jutsu로 제작한 GLB 모델을 적용했습니다. 모모, 나무, 고사리, 풀, 꽃, 딸기, 버섯, 연못 등 15개 종류의 입체 에셋을 사용합니다. 드래그로 회전하고, 확대·축소하고, 빈 땅을 눌러 모모를 이동시키세요. [모델 및 조작 설명](docs/3D-ASSETS.md).
+
 ## 플레이
 
 - 웹: https://songharry77ss-sketch.github.io/makecho/
